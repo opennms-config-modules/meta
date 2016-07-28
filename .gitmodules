@@ -340,12 +340,12 @@
 [submodule "lancom-lcos"]
 	path = lancom-lcos
 	url = https://github.com/opennms-config-modules/lancom-lcos.git
-[submodule "smseagle-gateway"]
-	path = smseagle-gateway
-	url = https://github.com/opennms-config-modules/smseagle-gateway.git
 [submodule "didactum-monitoring-system-2"]
 	path = didactum-monitoring-system-2
 	url = https://github.com/opennms-config-modules/didactum-monitoring-system-2.git
 [submodule "meta"]
 	path = meta
 	url = https://github.com/opennms-config-modules/meta.git
+[submodule "smseagle-sms-gateway"]
+	path = smseagle-sms-gateway
+	url = https://github.com/opennms-config-modules/smseagle-sms-gateway.git
