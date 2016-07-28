@@ -1,0 +1,351 @@
+[submodule "net-snmp"]
+	path = net-snmp
+	url = https://github.com/opennms-config-modules/net-snmp.git
+[submodule "snmp-mib2"]
+	path = snmp-mib2
+	url = https://github.com/opennms-config-modules/snmp-mib2.git
+[submodule "cisco-nexus"]
+	path = cisco-nexus
+	url = https://github.com/opennms-config-modules/cisco-nexus.git
+[submodule "zertico"]
+	path = zertico
+	url = https://github.com/opennms-config-modules/zertico.git
+[submodule "3com-router"]
+	path = 3com-router
+	url = https://github.com/opennms-config-modules/3com-router.git
+[submodule "microsoft-server"]
+	path = microsoft-server
+	url = https://github.com/opennms-config-modules/microsoft-server.git
+[submodule "snmp-informant-standard"]
+	path = snmp-informant-standard
+	url = https://github.com/opennms-config-modules/snmp-informant-standard.git
+[submodule "snmp-informant-advanced"]
+	path = snmp-informant-advanced
+	url = https://github.com/opennms-config-modules/snmp-informant-advanced.git
+[submodule "dell"]
+	path = dell
+	url = https://github.com/opennms-config-modules/dell.git
+[submodule "fortinet"]
+	path = fortinet
+	url = https://github.com/opennms-config-modules/fortinet.git
+[submodule "acmepacket"]
+	path = acmepacket
+	url = https://github.com/opennms-config-modules/acmepacket.git
+[submodule "pfsense"]
+	path = pfsense
+	url = https://github.com/opennms-config-modules/pfsense.git
+[submodule "f5"]
+	path = f5
+	url = https://github.com/opennms-config-modules/f5.git
+[submodule "apc"]
+	path = apc
+	url = https://github.com/opennms-config-modules/apc.git
+[submodule "adaptec"]
+	path = adaptec
+	url = https://github.com/opennms-config-modules/adaptec.git
+[submodule "adic"]
+	path = adic
+	url = https://github.com/opennms-config-modules/adic.git
+[submodule "adtran"]
+	path = adtran
+	url = https://github.com/opennms-config-modules/adtran.git
+[submodule "aedilis"]
+	path = aedilis
+	url = https://github.com/opennms-config-modules/aedilis.git
+[submodule "akcp"]
+	path = akcp
+	url = https://github.com/opennms-config-modules/akcp.git
+[submodule "alcatel"]
+	path = alcatel
+	url = https://github.com/opennms-config-modules/alcatel.git
+[submodule "allot"]
+	path = allot
+	url = https://github.com/opennms-config-modules/allot.git
+[submodule "alteon"]
+	path = alteon
+	url = https://github.com/opennms-config-modules/alteon.git
+[submodule "alvarion"]
+	path = alvarion
+	url = https://github.com/opennms-config-modules/alvarion.git
+[submodule "apache"]
+	path = apache
+	url = https://github.com/opennms-config-modules/apache.git
+[submodule "arcserve"]
+	path = arcserve
+	url = https://github.com/opennms-config-modules/arcserve.git
+[submodule "ascend"]
+	path = ascend
+	url = https://github.com/opennms-config-modules/ascend.git
+[submodule "asterisk"]
+	path = asterisk
+	url = https://github.com/opennms-config-modules/asterisk.git
+[submodule "atm-forum"]
+	path = atm-forum
+	url = https://github.com/opennms-config-modules/atm-forum.git
+[submodule "audiocodes"]
+	path = audiocodes
+	url = https://github.com/opennms-config-modules/audiocodes.git
+[submodule "avocent"]
+	path = avocent
+	url = https://github.com/opennms-config-modules/avocent.git
+[submodule "backup-exec"]
+	path = backup-exec
+	url = https://github.com/opennms-config-modules/backup-exec.git
+[submodule "bea-weblogic"]
+	path = bea-weblogic
+	url = https://github.com/opennms-config-modules/bea-weblogic.git
+[submodule "blackberry"]
+	path = blackberry
+	url = https://github.com/opennms-config-modules/blackberry.git
+[submodule "blade-network"]
+	path = blade-network
+	url = https://github.com/opennms-config-modules/blade-network.git
+[submodule "bluecoat"]
+	path = bluecoat
+	url = https://github.com/opennms-config-modules/bluecoat.git
+[submodule "bmc"]
+	path = bmc
+	url = https://github.com/opennms-config-modules/bmc.git
+[submodule "brocade"]
+	path = brocade
+	url = https://github.com/opennms-config-modules/brocade.git
+[submodule "ca"]
+	path = ca
+	url = https://github.com/opennms-config-modules/ca.git
+[submodule "checkpoint"]
+	path = checkpoint
+	url = https://github.com/opennms-config-modules/checkpoint.git
+[submodule "cisco"]
+	path = cisco
+	url = https://github.com/opennms-config-modules/cisco.git
+[submodule "citrix"]
+	path = citrix
+	url = https://github.com/opennms-config-modules/citrix.git
+[submodule "clarent"]
+	path = clarent
+	url = https://github.com/opennms-config-modules/clarent.git
+[submodule "clarinet"]
+	path = clarinet
+	url = https://github.com/opennms-config-modules/clarinet.git
+[submodule "colubris"]
+	path = colubris
+	url = https://github.com/opennms-config-modules/colubris.git
+[submodule "compuware"]
+	path = compuware
+	url = https://github.com/opennms-config-modules/compuware.git
+[submodule "comtech-ef-data"]
+	path = comtech-ef-data
+	url = https://github.com/opennms-config-modules/comtech-ef-data.git
+[submodule "covergence"]
+	path = covergence
+	url = https://github.com/opennms-config-modules/covergence.git
+[submodule "cricket"]
+	path = cricket
+	url = https://github.com/opennms-config-modules/cricket.git
+[submodule "crossbeam"]
+	path = crossbeam
+	url = https://github.com/opennms-config-modules/crossbeam.git
+[submodule "cyclades"]
+	path = cyclades
+	url = https://github.com/opennms-config-modules/cyclades.git
+[submodule "dlink"]
+	path = dlink
+	url = https://github.com/opennms-config-modules/dlink.git
+[submodule "emc"]
+	path = emc
+	url = https://github.com/opennms-config-modules/emc.git
+[submodule "equallogic"]
+	path = equallogic
+	url = https://github.com/opennms-config-modules/equallogic.git
+[submodule "ericsson"]
+	path = ericsson
+	url = https://github.com/opennms-config-modules/ericsson.git
+[submodule "extreme-networks"]
+	path = extreme-networks
+	url = https://github.com/opennms-config-modules/extreme-networks.git
+[submodule "force10"]
+	path = force10
+	url = https://github.com/opennms-config-modules/force10.git
+[submodule "foundry"]
+	path = foundry
+	url = https://github.com/opennms-config-modules/foundry.git
+[submodule "fujitsu-siemens"]
+	path = fujitsu-siemens
+	url = https://github.com/opennms-config-modules/fujitsu-siemens.git
+[submodule "hewlett-packard"]
+	path = hewlett-packard
+	url = https://github.com/opennms-config-modules/hewlett-packard.git
+[submodule "hwgroup"]
+	path = hwgroup
+	url = https://github.com/opennms-config-modules/hwgroup.git
+[submodule "hyperic"]
+	path = hyperic
+	url = https://github.com/opennms-config-modules/hyperic.git
+[submodule "intel"]
+	path = intel
+	url = https://github.com/opennms-config-modules/intel.git
+[submodule "interactive-intelligence"]
+	path = interactive-intelligence
+	url = https://github.com/opennms-config-modules/interactive-intelligence.git
+[submodule "ipunity"]
+	path = ipunity
+	url = https://github.com/opennms-config-modules/ipunity.git
+[submodule "juniper"]
+	path = juniper
+	url = https://github.com/opennms-config-modules/juniper.git
+[submodule "liebert"]
+	path = liebert
+	url = https://github.com/opennms-config-modules/liebert.git
+[submodule "linksys"]
+	path = linksys
+	url = https://github.com/opennms-config-modules/linksys.git
+[submodule "mcafee"]
+	path = mcafee
+	url = https://github.com/opennms-config-modules/mcafee.git
+[submodule "mikrotik"]
+	path = mikrotik
+	url = https://github.com/opennms-config-modules/mikrotik.git
+[submodule "motorola"]
+	path = motorola
+	url = https://github.com/opennms-config-modules/motorola.git
+[submodule "mylex"]
+	path = mylex
+	url = https://github.com/opennms-config-modules/mylex.git
+[submodule "netapp"]
+	path = netapp
+	url = https://github.com/opennms-config-modules/netapp.git
+[submodule "netgear"]
+	path = netgear
+	url = https://github.com/opennms-config-modules/netgear.git
+[submodule "nokia"]
+	path = nokia
+	url = https://github.com/opennms-config-modules/nokia.git
+[submodule "nortel"]
+	path = nortel
+	url = https://github.com/opennms-config-modules/nortel.git
+[submodule "novell"]
+	path = novell
+	url = https://github.com/opennms-config-modules/novell.git
+[submodule "oracle"]
+	path = oracle
+	url = https://github.com/opennms-config-modules/oracle.git
+[submodule "overland"]
+	path = overland
+	url = https://github.com/opennms-config-modules/overland.git
+[submodule "overture"]
+	path = overture
+	url = https://github.com/opennms-config-modules/overture.git
+[submodule "pingtel"]
+	path = pingtel
+	url = https://github.com/opennms-config-modules/pingtel.git
+[submodule "pixelmetrix"]
+	path = pixelmetrix
+	url = https://github.com/opennms-config-modules/pixelmetrix.git
+[submodule "polycom"]
+	path = polycom
+	url = https://github.com/opennms-config-modules/polycom.git
+[submodule "quintum"]
+	path = quintum
+	url = https://github.com/opennms-config-modules/quintum.git
+[submodule "rancid"]
+	path = rancid
+	url = https://github.com/opennms-config-modules/rancid.git
+[submodule "rapid-city"]
+	path = rapid-city
+	url = https://github.com/opennms-config-modules/rapid-city.git
+[submodule "redline"]
+	path = redline
+	url = https://github.com/opennms-config-modules/redline.git
+[submodule "riverbed"]
+	path = riverbed
+	url = https://github.com/opennms-config-modules/riverbed.git
+[submodule "rnd"]
+	path = rnd
+	url = https://github.com/opennms-config-modules/rnd.git
+[submodule "sensaphone"]
+	path = sensaphone
+	url = https://github.com/opennms-config-modules/sensaphone.git
+[submodule "servertech"]
+	path = servertech
+	url = https://github.com/opennms-config-modules/servertech.git
+[submodule "siemens"]
+	path = siemens
+	url = https://github.com/opennms-config-modules/siemens.git
+[submodule "snmp-research"]
+	path = snmp-research
+	url = https://github.com/opennms-config-modules/snmp-research.git
+[submodule "sonicwall"]
+	path = sonicwall
+	url = https://github.com/opennms-config-modules/sonicwall.git
+[submodule "sonus"]
+	path = sonus
+	url = https://github.com/opennms-config-modules/sonus.git
+[submodule "sun"]
+	path = sun
+	url = https://github.com/opennms-config-modules/sun.git
+[submodule "swiss-qual"]
+	path = swiss-qual
+	url = https://github.com/opennms-config-modules/swiss-qual.git
+[submodule "trango"]
+	path = trango
+	url = https://github.com/opennms-config-modules/trango.git
+[submodule "trendmicro"]
+	path = trendmicro
+	url = https://github.com/opennms-config-modules/trendmicro.git
+[submodule "tripp-lite"]
+	path = tripp-lite
+	url = https://github.com/opennms-config-modules/tripp-lite.git
+[submodule "git-create.sh"]
+	path = git-create.sh
+	url = https://github.com/opennms-config-modules/git-create.sh.git
+[submodule "tut-systems"]
+	path = tut-systems
+	url = https://github.com/opennms-config-modules/tut-systems.git
+[submodule "veeam"]
+	path = veeam
+	url = https://github.com/opennms-config-modules/veeam.git
+[submodule "veraz"]
+	path = veraz
+	url = https://github.com/opennms-config-modules/veraz.git
+[submodule "vmware"]
+	path = vmware
+	url = https://github.com/opennms-config-modules/vmware.git
+[submodule "waverider"]
+	path = waverider
+	url = https://github.com/opennms-config-modules/waverider.git
+[submodule "websense"]
+	path = websense
+	url = https://github.com/opennms-config-modules/websense.git
+[submodule "xerox"]
+	path = xerox
+	url = https://github.com/opennms-config-modules/xerox.git
+[submodule "airdefense"]
+	path = airdefense
+	url = https://github.com/opennms-config-modules/airdefense.git
+[submodule "altiga"]
+	path = altiga
+	url = https://github.com/opennms-config-modules/altiga.git
+[submodule "aruba"]
+	path = aruba
+	url = https://github.com/opennms-config-modules/aruba.git
+[submodule "avtc"]
+	path = avtc
+	url = https://github.com/opennms-config-modules/avtc.git
+[submodule "broadcom"]
+	path = broadcom
+	url = https://github.com/opennms-config-modules/broadcom.git
+[submodule "zeus"]
+	path = zeus
+	url = https://github.com/opennms-config-modules/zeus.git
+[submodule "lancom-lcos"]
+	path = lancom-lcos
+	url = https://github.com/opennms-config-modules/lancom-lcos.git
+[submodule "smseagle-gateway"]
+	path = smseagle-gateway
+	url = https://github.com/opennms-config-modules/smseagle-gateway.git
+[submodule "didactum-monitoring-system-2"]
+	path = didactum-monitoring-system-2
+	url = https://github.com/opennms-config-modules/didactum-monitoring-system-2.git
+[submodule "meta"]
+	path = meta
+	url = https://github.com/opennms-config-modules/meta.git
