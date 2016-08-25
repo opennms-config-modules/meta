@@ -349,3 +349,6 @@
 [submodule "smseagle-sms-gateway"]
 	path = smseagle-sms-gateway
 	url = https://github.com/opennms-config-modules/smseagle-sms-gateway.git
+[submodule "nextcloud"]
+	path = nextcloud
+	url = https://github.com/opennms-config-modules/nextcloud.git
