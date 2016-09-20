@@ -352,3 +352,6 @@
 [submodule "nextcloud"]
 	path = nextcloud
 	url = https://github.com/opennms-config-modules/nextcloud.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/opennms-config-modules/elasticsearch.git
