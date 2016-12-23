@@ -361,3 +361,6 @@
 [submodule "firebird"]
 	path = firebird
 	url = https://github.com/opennms-config-modules/firebird.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/opennms-config-modules/ntp.git
