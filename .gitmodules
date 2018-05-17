@@ -370,3 +370,6 @@
 [submodule "lsi-megaraid-storcli"]
 	path = lsi-megaraid-storcli
 	url = https://github.com/opennms-config-modules/lsi-megaraid-storcli
+[submodule "netapp-snapmirror"]
+	path = netapp-snapmirror
+	url = https://github.com/opennms-config-modules/netapp-snapmirror
