@@ -382,3 +382,6 @@
 [submodule "snmp-swraid"]
 	path = snmp-swraid
 	url = https://github.com/opennms-config-modules/snmp-swraid
+[submodule "synology"]
+	path = synology
+	url = https://github.com/opennms-config-modules/synology
