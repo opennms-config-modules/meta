@@ -379,3 +379,6 @@
 [submodule "smartctl"]
 	path = smartctl
 	url = https://github.com/opennms-config-modules/smartctl
+[submodule "snmp-swraid"]
+	path = snmp-swraid
+	url = https://github.com/opennms-config-modules/snmp-swraid
