@@ -385,3 +385,6 @@
 [submodule "synology"]
 	path = synology
 	url = https://github.com/opennms-config-modules/synology
+[submodule "ubiquiti"]
+	path = ubiquiti
+	url = https://github.com/opennms-config-modules/ubiquiti
