@@ -367,3 +367,6 @@
 [submodule "java-virtual-machine"]
 	path = java-virtual-machine
 	url = https://github.com/opennms-config-modules/java-virtual-machine
+[submodule "lsi-megaraid-storcli"]
+	path = lsi-megaraid-storcli
+	url = https://github.com/opennms-config-modules/lsi-megaraid-storcli
