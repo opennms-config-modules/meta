@@ -373,3 +373,6 @@
 [submodule "netapp-snapmirror"]
 	path = netapp-snapmirror
 	url = https://github.com/opennms-config-modules/netapp-snapmirror
+[submodule "netman"]
+	path = netman
+	url = https://github.com/opennms-config-modules/netman
