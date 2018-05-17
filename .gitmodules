@@ -364,3 +364,6 @@
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/opennms-config-modules/ntp.git
+[submodule "java-virtual-machine"]
+	path = java-virtual-machine
+	url = https://github.com/opennms-config-modules/java-virtual-machine
