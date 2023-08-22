@@ -341,7 +341,7 @@
 [submodule "net-snmp"]
 	path = net-snmp
 	url = https://github.com/opennms-config-modules/net-snmp.git
-	branch = master
+	branch = main
 [submodule "netapp-snapmirror"]
 	path = netapp-snapmirror
 	url = https://github.com/opennms-config-modules/netapp-snapmirror.git
